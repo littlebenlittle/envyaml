@@ -3,3 +3,6 @@ envyaml/env_pb2.py tmp/python_pb/env_pb2.py
 envyaml/env_pb2_grpc.py tmp/python_pb/env_pb2_grpc.py
 tmp
 envyaml/__pycache__
+build
+dist
+envyaml_blittle.egg-info
